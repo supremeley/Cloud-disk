@@ -27,7 +27,7 @@ var data = [
 		"id":15,
 		"name":"html课程",
 		"pid":4,
-		"type":"zip"
+		"type":"folder"
 	},
 	{
 		"id":5,
@@ -39,13 +39,13 @@ var data = [
 		"id":13,
 		"name":"js视频",
 		"pid":5,
-		"type":"video"
+		"type":"folder"
 	},
 	{
 		"id":16,
 		"name":"js文件",
 		"pid":5,
-		"type":"zip"
+		"type":"folder"
 	},
 	{
 		"id":6,
@@ -69,7 +69,7 @@ var data = [
 		"id":14,
 		"name":"css视频",
 		"pid":8,
-		"type":"video"
+		"type":"folder"
 	},
 	{
 		"id":9,
@@ -99,6 +99,6 @@ var data = [
 		"id":17,
 		"name":"音乐",
 		"pid":1,
-		"type":"music"
+		"type":"folder"
 	}
 ]
